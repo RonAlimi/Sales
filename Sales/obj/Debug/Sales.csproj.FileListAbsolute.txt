@@ -1,0 +1,13 @@
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Sales\Sales\bin\Debug\Sales.exe
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Sales\Sales\bin\Debug\Sales.pdb
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Sales\Sales\obj\Debug\Sales.csprojResolveAssemblyReference.cache
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Sales\Sales\obj\Debug\Sales.Properties.Resources.resources
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Sales\Sales\obj\Debug\Sales.csproj.GenerateResource.Cache
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Sales\Sales\obj\Debug\Sales.exe
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Sales\Sales\obj\Debug\Sales.pdb
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Sales\Sales\obj\Debug\Sales.SALES_FORMS.LogIn.resources
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Sales\Sales\obj\Debug\Sales.Client.resources
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Sales\Sales\obj\Debug\Sales.MainForm.resources
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Sales\Sales\bin\Debug\Sales.exe.config
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Sales\Sales\obj\Debug\Sales.AddNewOrderForm.resources
+C:\Users\ron\Documents\Visual Studio 2012\Projects\DS Final Project\Sales\Sales\obj\Debug\Sales.OrderNewForm.resources

@@ -1,0 +1,3 @@
+﻿per te shtuar klient te ri:
+1. shtohen kontakt infot ne thread te ri
+2. shtohen te dhenat e Customer, ku ID e kontakteve lidhet me Contact_Info = cId
